@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "a5303b46-5354-4e7b-8318-49310a9929fe",
+            "Value": {
+                "id": "efdfb0c0-78a0-4257-a5ad-22b8c5b716c2",
+                "resourcePath": "sprites\\sp_witch_Walking_injured\\sp_witch_Walking_injured.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "c047ce9b-c993-442a-95d7-3607519d7676",
