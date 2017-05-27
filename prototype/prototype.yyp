@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3966da6e-dae4-400b-bdda-ac7653a25e18",
+            "Value": {
+                "id": "c7a2ce74-92e6-473f-955c-c232ca2d3bf4",
+                "resourcePath": "sprites\\sp_witch_Standing_right\\sp_witch_Standing_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3b9ab24b-95d7-476d-adfa-aaba828c00ee",
             "Value": {
                 "id": "df6afdff-db51-4956-a645-e094450e1767",
@@ -108,14 +116,6 @@
                 "id": "d61cdab3-93c1-49c7-aebc-b0ace4781af4",
                 "resourcePath": "objects\\obj_witch\\obj_witch.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "6a1604c9-8201-4dd9-88bf-ca83953300d2",
-            "Value": {
-                "id": "84c39ef8-0b27-4037-ab29-9ddd0802f9d3",
-                "resourcePath": "sprites\\sp_witch_Standing_right\\sp_witch_Standing_right.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
