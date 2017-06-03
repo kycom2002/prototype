@@ -215,6 +215,22 @@
             }
         },
         {
+            "Key": "c5e8f052-bd6b-4663-851a-9af7c41ad2cb",
+            "Value": {
+                "id": "ab689be6-7a40-4a45-892d-4e0b358881f2",
+                "resourcePath": "sprites\\sp_witch_pushing\\sp_witch_pushing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c642e7af-b72d-40a1-9828-cc0dc2f12b38",
+            "Value": {
+                "id": "90286b56-065a-48e1-993e-86559432a7c3",
+                "resourcePath": "sprites\\sp_witch_pushing_transition\\sp_witch_pushing_transition.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c7481e40-4644-4752-9322-2c6bcfb55f56",
             "Value": {
                 "id": "084379dc-09e2-4f20-afff-99a0e9aacd3f",
