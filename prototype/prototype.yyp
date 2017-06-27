@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3194f917-c054-4c28-bba6-e553f8f823aa",
+            "Value": {
+                "id": "4bd860c8-bc62-48c2-8d09-1e90fbdec533",
+                "resourcePath": "fonts\\fnt_large\\fnt_large.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "3966da6e-dae4-400b-bdda-ac7653a25e18",
             "Value": {
                 "id": "c7a2ce74-92e6-473f-955c-c232ca2d3bf4",
@@ -92,6 +100,14 @@
                 "id": "df6afdff-db51-4956-a645-e094450e1767",
                 "resourcePath": "views\\3b9ab24b-95d7-476d-adfa-aaba828c00ee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3d1ab36f-9e9c-4769-b659-c863901b0e4d",
+            "Value": {
+                "id": "7cbdb151-6e41-4640-8037-2dda5157f389",
+                "resourcePath": "fonts\\fnt_small\\fnt_small.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "335e9a3d-0a80-4739-8633-6878c02b4d46",
                 "resourcePath": "sprites\\sp_witch_Panting_right\\sp_witch_Panting_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9408ae89-3c2b-4a11-8123-a2d1a87113da",
+            "Value": {
+                "id": "77082437-bdcd-4fd8-ab34-64ccfdbf5d6e",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
             }
         },
         {
