@@ -34,7 +34,7 @@
             "Key": "18c08000-1068-4fd8-82a0-d885fe2bc2cf",
             "Value": {
                 "id": "69f346a7-525c-4d36-97d5-ac941183493e",
-                "resourcePath": "scripts\\scr_collision\\scr_collision.yy",
+                "resourcePath": "scripts\\scr_enemy_static\\scr_enemy_static.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -116,6 +116,14 @@
                 "id": "aa3904dc-b86e-41df-8649-937576057b3e",
                 "resourcePath": "sprites\\sp_enemy_follow\\sp_enemy_follow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "44ad0025-cee2-4e5a-afcc-d23153d32fd6",
+            "Value": {
+                "id": "53334030-acfe-40f2-97fb-13b50c6f3e8d",
+                "resourcePath": "scripts\\scr_enemy_follow\\scr_enemy_follow.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -360,7 +368,8 @@
         }
     ],
     "script_order": [
-        "18c08000-1068-4fd8-82a0-d885fe2bc2cf"
+        "18c08000-1068-4fd8-82a0-d885fe2bc2cf",
+        "44ad0025-cee2-4e5a-afcc-d23153d32fd6"
     ],
     "tutorial": ""
 }
